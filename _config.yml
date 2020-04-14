@@ -8,7 +8,6 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true
 show_description: true       # show the site description in the sidebar
 show_title: false            # always keep the site title visible
 
